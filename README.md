@@ -34,21 +34,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2023-12-19 155415](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/44d2f3d3-a570-400f-8498-fb304bcc3598)
+![Screenshot 2023-12-19 160650](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/83f2dcc9-facc-4082-a38e-3c9c07fae562)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2023-12-19 161722](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/feede389-4df3-4496-af0b-f7f9c94ceec5)
+![Screenshot 2023-12-19 215236](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/33427292-baf4-437a-8092-eee15556a48c)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2023-12-19 215316](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/47fe35c5-4acb-4761-ac52-a9589f7143ec)
+![Screenshot 2023-12-19 215342](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/05a961b4-66a5-4780-b4e0-63b2500f5112)
+
 
 ## Output:
+![Screenshot 2023-12-19 215618](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/5f378772-8592-4d18-9bc5-d3199070e940)
 
-### Name:
-### Register Number:
+### Name: PULI NAGA NEERAJ
+### Register Number: 23004033
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
