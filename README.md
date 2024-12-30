@@ -49,8 +49,8 @@
 ## Output:
 ![Screenshot 2023-12-19 215618](https://github.com/PuliNagaNeeraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/5f378772-8592-4d18-9bc5-d3199070e940)
 
-### Name: PULI NAGA NEERAJ
-### Register Number: 23004033
+### Name: SAI KRIPA SK
+### Register Number: 24005319
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
